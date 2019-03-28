@@ -1,0 +1,6 @@
+[submodule "puhelinluettelo-frontend"]
+	path = puhelinluettelo-frontend
+	url = https://github.com/jerrysalonen/puhelinluettelo-frontend
+[submodule "Puhelinluettelo"]
+	path = Puhelinluettelo
+	url = https://github.com/jerrysalonen/Puhelinluettelo
